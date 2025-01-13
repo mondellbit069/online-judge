@@ -1,4 +1,4 @@
-LQDOJ: Le Quy Don Online Judge
+CHGOJ: Chuyen Ha Giang Online Judge
 ===
 
 [![](https://github.com/DMOJ/online-judge/workflows/build/badge.svg)](https://lqdoj.edu.vn/)
@@ -7,8 +7,9 @@ LQDOJ: Le Quy Don Online Judge
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
 # Overview
+Homepage: [http://chgoj.ddns.net](http://chgoj.ddns.net)
 
-Homepage: [https://lqdoj.edu.vn](https://lqdoj.edu.vn)
+Forked from: [https://lqdoj.edu.vn](https://lqdoj.edu.vn)
 
 Based on [DMOJ](https://dmoj.ca/).
 
