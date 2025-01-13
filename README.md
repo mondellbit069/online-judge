@@ -74,7 +74,7 @@ mariadb> exit
 $ python3 -m venv dmojsite
 $ . dmojsite/bin/activate
 
-$ git clone https://github.com/LQDJudge/online-judge.git
+$ git clone https://github.com/mondellbit069/online-judge.git
 $ cd online-judge
 $ git submodule init
 $ git submodule update
