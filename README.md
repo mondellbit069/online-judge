@@ -32,7 +32,7 @@ Support plagiarism detection via [Stanford MOSS](https://theory.stanford.edu/~ai
 Most of the setup are the same as DMOJ installations. You can view the installation guide of DMOJ
 here: https://docs.dmoj.ca/#/site/installation.
 There is one minor change: Instead of `git clone https://github.com/DMOJ/site.git`, you clone this repo
-`git clone https://github.com/LQDJudge/online-judge.git`.
+`git clone https://github.com/mondellbit069/online-judge.git`.
 
 - **Bước 1**: cài các thư viện cần thiết
     - $ ở đây nghĩa là sudo. Ví dụ dòng đầu nghĩa là chạy lệnh `sudo apt update`
